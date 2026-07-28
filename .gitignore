@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+*.egg-info/
+.DS_Store
+
+# never commit IQM API tokens
+*.token
+.env
+iqm_api_*.txt
+iqm_token*
